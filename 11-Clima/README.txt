@@ -1,0 +1,1 @@
+This is a dark-mode enabled weather app. You can check the weather for the current location based on the GPS data from your phone as well as by searching for a city manually. 
